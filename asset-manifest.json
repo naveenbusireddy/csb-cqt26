@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://naveenbusireddy.github.io/csb-cqt26/static/css/main.9e0c4c08.chunk.css",
+    "main.js": "https://naveenbusireddy.github.io/csb-cqt26/static/js/main.b5327b0b.chunk.js",
+    "main.js.map": "https://naveenbusireddy.github.io/csb-cqt26/static/js/main.b5327b0b.chunk.js.map",
+    "runtime-main.js": "https://naveenbusireddy.github.io/csb-cqt26/static/js/runtime-main.9946d123.js",
+    "runtime-main.js.map": "https://naveenbusireddy.github.io/csb-cqt26/static/js/runtime-main.9946d123.js.map",
+    "static/js/2.2cb66381.chunk.js": "https://naveenbusireddy.github.io/csb-cqt26/static/js/2.2cb66381.chunk.js",
+    "static/js/2.2cb66381.chunk.js.map": "https://naveenbusireddy.github.io/csb-cqt26/static/js/2.2cb66381.chunk.js.map",
+    "index.html": "https://naveenbusireddy.github.io/csb-cqt26/index.html",
+    "static/css/main.9e0c4c08.chunk.css.map": "https://naveenbusireddy.github.io/csb-cqt26/static/css/main.9e0c4c08.chunk.css.map",
+    "static/js/2.2cb66381.chunk.js.LICENSE.txt": "https://naveenbusireddy.github.io/csb-cqt26/static/js/2.2cb66381.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9946d123.js",
+    "static/js/2.2cb66381.chunk.js",
+    "static/css/main.9e0c4c08.chunk.css",
+    "static/js/main.b5327b0b.chunk.js"
+  ]
+}
